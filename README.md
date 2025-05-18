@@ -7,3 +7,8 @@ ingreso y egreso.
 
 - Los ingresos son las compras que realiza un usuario cliente.
 - Los egresos son los registros de inventarios y actualización que se hacen en la libreria.
+
+Credenciales de usuario admin:
+
+email: admin@libreria.com
+password: admin123
