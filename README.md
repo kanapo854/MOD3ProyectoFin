@@ -9,6 +9,9 @@ ingreso y egreso.
 - Los egresos son los registros de inventarios y actualización que se hacen en la libreria.
 
 Credenciales de usuario admin:
-
 email: admin@libreria.com
 password: admin123
+
+Credenciales de usuario cliente:
+email: kanapo@gmail.com
+password:kanapo123
