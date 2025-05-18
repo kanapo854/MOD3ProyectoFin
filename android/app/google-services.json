@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736722385368",
+    "project_id": "libreria-f8863",
+    "storage_bucket": "libreria-f8863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736722385368:android:9ccdd33e014f413ccd1aad",
+        "android_client_info": {
+          "package_name": "com.example.libreria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDzQEk6esbx2jE_hQ7epsGd_90KZJrtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
